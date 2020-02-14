@@ -6,11 +6,11 @@
 
 # URL variables
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://collectionbuilder.github.io
+url: https://ncflib.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /collectionbuilder-gh
+baseurl: /BodiesMinds-Group3
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder
+source-code: https://github.com/ncflib
 
 # Site settings
 # title of site appears in banner
