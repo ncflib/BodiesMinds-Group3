@@ -9,4 +9,4 @@ permalink: /about/
 
 # About {{ site.title }}.
 
-{% include about/credits.md %}
+Include information here. 
