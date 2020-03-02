@@ -9,4 +9,8 @@ permalink: /about/
 
 # About {{ site.title }}.
 
-Include information here. 
+Insert text here. 
+
+New paragraph.
+
+![Alt text](https://someurl/imagelocation/image.png)
